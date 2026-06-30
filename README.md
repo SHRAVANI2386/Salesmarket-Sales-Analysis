@@ -104,19 +104,6 @@ Customer ratings help evaluate shopping experience and satisfaction levels.
 
 Daily or monthly revenue trends reveal changes in shopping behavior over time.
 
-Project Structure
-text
-Supermarket-Sales-Analysis/
-│
-├── data/
-│   └── supermarket_sales.csv
-├── notebooks/
-│   └── supermarket_sales_analysis.ipynb
-├── images/
-│   └── charts/
-├── README.md
-├── requirements.txt
-└── .gitignore
 How to Run
 Clone this repository.
 
